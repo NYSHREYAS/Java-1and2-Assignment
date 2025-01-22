@@ -18,9 +18,8 @@ Individual Assignment Files (Q1.java to Q18.java): Self-contained solutions for 
 
 Unit 2 Assignments.iml: IDE-specific project file.
 
-src Directory
 
-This folder contains Java files that demonstrate various programming concepts of Unit 2. 
+In unit 2 Folder : It contains code of Unit 2 Assignments 
 
 
 
