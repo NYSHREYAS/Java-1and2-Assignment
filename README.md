@@ -1,7 +1,7 @@
 
-Here's an updated version of your README with the requested changes and additional enhancements:
-
 Unit 1 & Unit 2 Assignments - Java Programming
+
+
 Welcome to the Unit 1 & Unit 2 Assignments repository! This repository contains Java programming assignments for both Unit 1 and Unit 2, providing practical examples of various programming concepts.
 
 
